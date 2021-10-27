@@ -1,4 +1,4 @@
-## Me chamo Kesley! Atualmente estudo Desenvolvimento Web na Trybe [<img align="top"  src="https://media1.giphy.com/media/e6w3i2arfjIoI8hWy0/giphy.gif?cid=790b7611957ae45ffdbd4247d938f3e7eae883f5ff4d6e94&rid=giphy.gif&ct=g" height="25" width="25"  title="A maior escola de programação do Brasil"/>](https://www.betrybe.com/)
+## Me chamo Kesley! Atualmente estudo Desenvolvimento Web na [Trybe](https://www.betrybe.com/) <img align="top"  src="https://media1.giphy.com/media/e6w3i2arfjIoI8hWy0/giphy.gif?cid=790b7611957ae45ffdbd4247d938f3e7eae883f5ff4d6e94&rid=giphy.gif&ct=g" height="25" width="25"  title="A maior escola de programação do Brasil"/>
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/KesleyMuniz">
