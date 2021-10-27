@@ -6,14 +6,13 @@
 </div>
  
 <div style="display: inline_block">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="px" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40px" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40px" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px" height="40px"/>
- 
-  
- <div align="left">
+  <div align="left">
    <a href= "https://www.linkedin.com/in/kesleymuniz/"target"_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="133px" height="33" /></a>
   <a href= "https://www.instagram.com/kgm.raw/" target="_black"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="133px" height="33" target="_black"/></a>
   <a href= "mailto:contato.kgmstudios@hotmail.com?subject=Hello%20again" target="_black"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="133px" height="33" target="_black"/></a>
-  </div>
+  </div> 
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="px" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40px" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40px" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px" height="40px"/>
  
  </div>
  
@@ -28,15 +27,6 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=kesleymuniz&theme=radical&hide_border=true" width = 400>
    </div>
 
-
-<div id="a1">
-  <a href= "https://www.linkedin.com/in/kesleymuniz/"target"_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" height="25"/></a>
-  <a href= "https://www.instagram.com/kgm.raw/" target="_black"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100px" height="25" target="_black"/></a>
-  <a href= "mailto:contato.kgmstudios@hotmail.com?subject=Hello%20again" target="_black"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100px" height="25" target="_black"/></a>
-</div>
-  
-
-  
 
 <div align="center">
 
