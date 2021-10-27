@@ -22,7 +22,7 @@
    
    <img height="170em" src = "https://github-readme-streak-stats.herokuapp.com?user=kesleymuniz&theme=radical&hide_border=true" >
    
-   </div>
+   
 
 
 <div align="center">
