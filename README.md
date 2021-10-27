@@ -2,7 +2,9 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="31px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="31px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="31px"/>
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kesleymuniz&show_icons=true&theme=radical&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesleymuniz&layout=compact&theme=radical)
+
+   
+### ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kesleymuniz&show_icons=true&theme=radical&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesleymuniz&layout=compact&theme=radical)
 
 
 
