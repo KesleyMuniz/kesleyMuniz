@@ -2,7 +2,7 @@
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/KesleyMuniz">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=KesleyMuniz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KesleyMuniz&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KesleyMuniz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KesleyMuniz&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="31px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="31px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="31px"/>
