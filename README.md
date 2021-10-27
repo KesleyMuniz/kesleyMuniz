@@ -1,5 +1,5 @@
-<div style="display: inline_block"><br> 
- <h2> Me chamo Kesley! Atualmente estudo Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> <img align="top"  src="https://media1.giphy.com/media/e6w3i2arfjIoI8hWy0/giphy.gif?cid=790b7611957ae45ffdbd4247d938f3e7eae883f5ff4d6e94&rid=giphy.gif&ct=g"  height="25" width="25"  title="A maior escola de programação do Brasil"/>
+<div align="center"><br> 
+ <h2 aling> Me chamo Kesley! Atualmente estudo Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> <img align="top"  src="https://media1.giphy.com/media/e6w3i2arfjIoI8hWy0/giphy.gif?cid=790b7611957ae45ffdbd4247d938f3e7eae883f5ff4d6e94&rid=giphy.gif&ct=g"  height="25" width="25"  title="A maior escola de programação do Brasil"/>
   </h2>
 </div>
 
@@ -8,7 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KesleyMuniz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40px" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40px" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px" height="40px"/>
-#
 
 
 <div id="a1">
