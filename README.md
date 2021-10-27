@@ -1,6 +1,8 @@
-<div align="center"><br> 
- <h2 aling> Me chamo Kesley! Atualmente estudo Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> <img align="top"  src="https://media1.giphy.com/media/e6w3i2arfjIoI8hWy0/giphy.gif?cid=790b7611957ae45ffdbd4247d938f3e7eae883f5ff4d6e94&rid=giphy.gif&ct=g"  height="25" width="25"  title="A maior escola de programação do Brasil"/>
-  </h2>
+<div align="center"> <br> 
+ <h1> Me chamo Kesley! <br>
+  Atualmente sou estudante de Desenvolvimento Web na <br>
+  <a href="https://www.betrybe.com/"><img src="https://media4.giphy.com/media/AuOc4PopTVr2YJPvbu/giphy.gif?cid=790b76114fee7de95a781b7dcdf8e9dd631a22e02a0e3177&rid=giphy.gif&ct=s"  height="100" width="100"  title="A maior escola de programação do Brasil"/>
+  </h1>
 </div>
 
 <div style="display: inline_block"><br>
