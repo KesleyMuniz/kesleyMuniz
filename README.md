@@ -1,11 +1,10 @@
-### Me chamo Kesley! Atualmente estudo Desenvolvimento Web na [<img src="https://go.betrybe.com/hubfs/logo%20cortada%20branca.png" width="60px" title="A maior escola de programação do Brasil"/>](https://www.betrybe.com/)
+## Me chamo Kesley! Atualmente estudo Desenvolvimento Web na Trybe [<img align="top"  src="https://media1.giphy.com/media/e6w3i2arfjIoI8hWy0/giphy.gif?cid=790b7611957ae45ffdbd4247d938f3e7eae883f5ff4d6e94&rid=giphy.gif&ct=g" height="25" width="25"  title="A maior escola de programação do Brasil"/>](https://www.betrybe.com/)
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/KesleyMuniz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KesleyMuniz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KesleyMuniz&layout=compact&langs_count=7&theme=radical"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=KesleyMuniz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KesleyMuniz&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
-
+  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="31px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="31px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="31px"/>
 #
 
