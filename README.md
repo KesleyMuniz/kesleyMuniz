@@ -1,9 +1,6 @@
-<div align="center"> <br> 
- <h1> Me chamo Kesley! <br>
-  Atualmente sou estudante de Desenvolvimento Web na <br>
-  <a href="https://www.betrybe.com/"><img src="https://media4.giphy.com/media/AuOc4PopTVr2YJPvbu/giphy.gif?cid=790b76114fee7de95a781b7dcdf8e9dd631a22e02a0e3177&rid=giphy.gif&ct=s"  height="100" width="100"  title="A maior escola de programação do Brasil"/>
-  </h1>
-</div>
+ 
+# Me chamo Kesley! Atualmente sou estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/"><img height="60em" src="https://i.imgur.com/Yp2a7wO.gif" align="bottom"  title="A maior escola de programação do Brasil" align="bottom"/>
+
  
 <div style="display: inline_block">
   <div align="left">
@@ -17,14 +14,12 @@
  </div>
  
 
- 
-  <a href="https://github.com/KesleyMuniz">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KesleyMuniz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+ <div align="left"> 
+  <a href="https://github.com/KesleyMuniz"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=KesleyMuniz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
    
- <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesleymuniz&layout=compact&langs_count=7&theme=radical"/>
+   <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesleymuniz&layout=compact&langs_count=7&theme=radical"/>
    
-   <div align="center"> 
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=kesleymuniz&theme=radical&hide_border=true" width = 400>
+   <img height="170em" src = "https://github-readme-streak-stats.herokuapp.com?user=kesleymuniz&theme=radical&hide_border=true" >
    </div>
 
 
