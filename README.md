@@ -21,14 +21,10 @@
    
    <img height="170em" src = "https://github-readme-streak-stats.herokuapp.com?user=kesleymuniz&theme=radical&hide_border=true" >
    
-   
-
 
 <div align="center">
 
 <img style="float: right;" src="http://www.fullsite.com.br/images/construc.gif">
-
-</div>
 
 
 
