@@ -17,7 +17,7 @@
  <div align="left"> 
   <a href="https://github.com/KesleyMuniz"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=KesleyMuniz&show_icons=true&theme=radical&include_all_commits=true"/> 
    
-   <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesleymuniz&count_private=true&layout=compact&langs_count=7&theme=radical"/>
+   <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesleymuniz&count_private=true&show_icons=true&theme=radical"/>
    
    <img height="170em" src = "https://github-readme-streak-stats.herokuapp.com?user=kesleymuniz&theme=radical&hide_border=true" >
    
