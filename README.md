@@ -1,18 +1,31 @@
  <div align = "center">
 
 # Me chamo Kesley! Atualmente sou estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/"><img height="60em" src="https://i.imgur.com/Yp2a7wO.gif" align="bottom"  title="A maior escola de programação do Brasil" align="bottom"/>
+
+# Jornada Trybe⠀
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+ ```text
+📚 Aulas t.       10/151        █░░░░░░░░░░░░░░░░░░░░░░░░   12.56%   📚 Aulas 1       10/42       █░░░░░░░░░░░░░░░░░░░░░░░░   12.56%   👨‍💻 Projetos 1    0/10       ░░░░░░░░░░░░░░░░░░░░░░░░░   12.56%     🤖 Modulos 1      2/37     ██░░░░░░░░░░░░░░░░░░░░░░░   12.56%     🧱 Blocos 1      0/9     ░░░░░░░░░░░░░░░░░░░░░░░░   12.56%          
+👨‍💻 Projetos t.    0/10          ░░░░░░░░░░░░░░░░░░░░░░░░░   40.93%   📚 Aulas 2       0/28        ░░░░░░░░░░░░░░░░░░░░░░░░░   40.93%   👨‍💻 Projetos 2    0/10       ░░░░░░░░░░░░░░░░░░░░░░░░░   40.93%     🤖 Modulos 2      2/37     ░░░░░░░░░░░░░░░░░░░░░░░░░   40.93%     🧱 Blocos 2      0/9     ░░░░░░░░░░░░░░░░░░░░░░░░   40.93%
+🤖 Modulos t.     2/37          ██░░░░░░░░░░░░░░░░░░░░░░░   30.7%    📚 Aulas 3       0/55        ░░░░░░░░░░░░░░░░░░░░░░░░░   30.7%    👨‍💻 Projetos 3    0/10       ░░░░░░░░░░░░░░░░░░░░░░░░░   30.7%      🤖 Modulos 3      2/37     ░░░░░░░░░░░░░░░░░░░░░░░░░   30.7%      🧱 Blocos 3      0/13    ░░░░░░░░░░░░░░░░░░░░░░░░   15.81%
+🧱 Blocos t.      0/4           ░░░░░░░░░░░░░░░░░░░░░░░░░   15.81%   📚 Aulas 4       0/26        ░░░░░░░░░░░░░░░░░░░░░░░░░   15.81%   👨‍💻 Projetos 4    0/10       ░░░░░░░░░░░░░░░░░░░░░░░░░   15.81%     🤖 Modulos 4      2/37     ░░░░░░░░░░░░░░░░░░░░░░░░░   15.81%     🧱 Blocos 4      0/6     ░░░░░░░░░░░░░░░░░░░░░░░░   15.81%
+```
+
+
  
-## :iphone: Redes sociais :iphone: 
+
+#
+### :iphone: Redes sociais :iphone: 
   <a href= "https://www.linkedin.com/in/kesleymuniz/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="133px" height="33" /></a>
   <a href= "https://www.instagram.com/kgm.raw/" target="_black"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="133px" height="33" target="_black"/></a>
   <a href= "mailto:contato.kgmstudios@hotmail.com?subject=Hello%20again" target="_black"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="133px" height="33" target="_black"/></a> 
  
- ## :keyboard: Linguagens :keyboard:
+ ### :keyboard: Linguagens :keyboard:
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="px" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40px" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40px" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px" height="40px"/>
 
  
- ## :clipboard: Minhas estatísticas :clipboard:
+ ### :clipboard: Minhas estatísticas :clipboard:
 &nbsp;
 <p align="center">
     <a href="https://github.com/KesleyMuniz/">
