@@ -1,6 +1,6 @@
  <div align = "center">
 
-# Me chamo Kesley! Atualmente sou estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/"><img height="60em" src="https://i.imgur.com/Yp2a7wO.gif" align="bottom"  title="A maior escola de programação do Brasil" align="bottom"/>
+# Me chamo Kesley!<br> Atualmente sou estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/"><img height="60em" src="https://i.imgur.com/Yp2a7wO.gif" align="bottom"  title="A maior escola de programação do Brasil" align="bottom"/>
    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
  ### Jornada Trybe
  
