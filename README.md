@@ -24,13 +24,11 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=KesleyMuniz&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats" />
     
 </p>
-
- [](Comment text goes here)
  
- ### Jornada Trybe
+### Jornada Trybe
+ 
  
  ```text
-
  🏆 Conclusão        12/231    █░░░░░░░░░░░░░░░░░░░░░░░░  05.19%
  📚 Aulas total      10/151    █░░░░░░░░░░░░░░░░░░░░░░░░  06.62%  
  👨‍💻 Projetos total   0/39      ░░░░░░░░░░░░░░░░░░░░░░░░░  00.00%  
