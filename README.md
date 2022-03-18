@@ -1,5 +1,7 @@
 <img src="imagem/SVG/header_pt.svg"></img>
 
+![Snake animation](https://github.com/KesleyMuniz/kesleyMuniz/blob/output/github-contribution-grid-snake.svg)
+
 <div align = "center">
   
 ### :iphone: Redes sociais :iphone: 
