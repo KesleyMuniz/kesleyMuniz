@@ -1,11 +1,11 @@
 <img src="images/header_pt.svg"></img>
 <div align = "center">
-<a href= "https://www.linkedin.com/in/kesleymuniz/" target="_blank" rel="noopener"><img src="images/Likedin.gif"" width="133px" height="133px" /></a>
+<a href= "https://www.linkedin.com/in/kesleymuniz/" target="_blank" rel="noopener"><img src="images/animationLikedin.gif"" width="133px" height="133px" /></a> <a href= "https://www.instagram.com/kgm.raw/" target="_black"><img src="images/animationInstagram.gif" width="133px" height="133" target="_black"/></a>
 
 ![Snake animation](https://github.com/KesleyMuniz/kesleyMuniz/blob/output/github-contribution-grid-snake.svg)
 
 ### :iphone: Redes sociais :iphone:
-  <a href= "https://www.instagram.com/kgm.raw/" target="_black"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="133px" height="33" target="_black"/></a>
+  
   <a href= "mailto:contato.kgmstudios@hotmail.com?subject=Hello%20again" target="_black"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="133px" height="33" target="_black"/></a> 
  
  ### :keyboard: Linguagens :keyboard:
