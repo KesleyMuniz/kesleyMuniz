@@ -1,6 +1,5 @@
- <div align = "center">
+<img src="imagem/SVG/header_pt.svg"></img>
 
-# Me chamo Kesley!<br> Atualmente sou estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/"><img height="60em" src="https://i.imgur.com/Yp2a7wO.gif" align="bottom"  title="A maior escola de programação do Brasil" align="bottom"/>⠀⠀
 ### :iphone: Redes sociais :iphone: 
   <a href= "https://www.linkedin.com/in/kesleymuniz/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="133px" height="33" /></a>
   <a href= "https://www.instagram.com/kgm.raw/" target="_black"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="133px" height="33" target="_black"/></a>
