@@ -1,6 +1,6 @@
 <img src="images/SVG/header_pt.svg"></img>
 <div align = "center">
-<a href= "https://www.linkedin.com/in/kesleymuniz/" target="_blank" rel="noopener"><img src="images/SVG/Linkedin.gif"" width="133px" height="33" /></a>
+<a href= "https://www.linkedin.com/in/kesleymuniz/" target="_blank" rel="noopener"><img src="images/SVG/Linkedin.gif"" width="133px" height="133px" /></a>
 
 ![Snake animation](https://github.com/KesleyMuniz/kesleyMuniz/blob/output/github-contribution-grid-snake.svg)
 
