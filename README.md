@@ -1,6 +1,8 @@
-<img src="imagem/SVG/header_pt.svg"></img>
-
+<img src="imagem/SVG/header_pt.svg">
 ![Snake animation](https://github.com/KesleyMuniz/kesleyMuniz/blob/output/github-contribution-grid-snake.svg)
+</img>
+
+
 
 <div align = "center">
   
