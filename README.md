@@ -10,7 +10,7 @@
 <a href= "https://www.instagram.com/kgm.raw/" target="_black"><img src="images/Instagram.svg" width="133px" height="133" target="_black"/></a>
 
 
-<img src="images/data.json" />
+<img src="https://lottiefiles.com/100191-email-icon" />
 
  ### :keyboard: Linguagens :keyboard:
  
