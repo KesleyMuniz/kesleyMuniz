@@ -5,12 +5,12 @@
 <div align = "center">
 
 ###  Redes sociais
-<a href= "https://www.linkedin.com/in/kesleymuniz/" target="_blank" rel="noopener"><img src="images/Linkedin.svg" /></a> 
+<a href= "https://www.linkedin.com/in/kesleymuniz/" target="_blank" rel="noopener"><img  src="images/Linkedin.gif" width="133px" height="133" /></a> 
 
-<a href= "https://www.instagram.com/kgm.raw/" target="_black"><img src="images/Instagram.svg" width="133px" height="133" target="_black"/></a>
+<a href= "https://www.instagram.com/kgm.raw/" target="_black"><img src="images/Instagram.gif" width="133px" height="133" target="_black"/></a>
 
 
-<img src="https://lottiefiles.com/100191-email-icon" />
+<a href= "https://www.instagram.com/kgm.raw/" target="_black"> <img src="images/Email.gif" width="133px" height="133" /></a>
 
  ### :keyboard: Linguagens :keyboard:
  
