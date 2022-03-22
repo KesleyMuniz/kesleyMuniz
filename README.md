@@ -5,7 +5,7 @@
 <div align = "center">
 
 ###  Redes sociais
-<a href= "https://www.linkedin.com/in/kesleymuniz/" target="_blank" rel="noopener"><img src="images/animationLikedin.gif" width="133px" height="133px" /></a> 
+<a href= "https://www.linkedin.com/in/kesleymuniz/" target="_blank" rel="noopener"><img src="images/Likedin.gif" /></a> 
 <a href= "https://www.instagram.com/kgm.raw/" target="_black"><img src="images/animationInstagram.gif" width="133px" height="133" target="_black"/></a>
  
  ### :keyboard: Linguagens :keyboard:
@@ -17,7 +17,7 @@
 &nbsp;
 <p align="center">
     <a href="https://github.com/KesleyMuniz/">
-        <img src="https://github-readme-stats.vercel.app/api?username=KesleyMuniz&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
+        <img src="https://github-readme-stats.vercel.app/api?username=KesleyMuniz&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ff"ffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
     </a>
     <a href="https://github.com/KesleyMuniz/">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KesleyMuniz&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
