@@ -5,7 +5,8 @@
 <div align = "center">
 
 ###  Redes sociais
-<a href= "https://www.linkedin.com/in/kesleymuniz/" target="_blank" rel="noopener"><img src="images/Likedin.gif" /></a> 
+<a href= "https://www.linkedin.com/in/kesleymuniz/" target="_blank" rel="noopener"><img src="images/Linkedin.gif" /></a> 
+
 <a href= "https://www.instagram.com/kgm.raw/" target="_black"><img src="images/animationInstagram.gif" width="133px" height="133" target="_black"/></a>
  
  ### :keyboard: Linguagens :keyboard:
