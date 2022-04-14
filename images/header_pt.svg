@@ -206,11 +206,10 @@ g.typingUnderline rect {
   </textPath>
 </text>
   
-    <text x="2" y="5" font-family="Helvetica" font-size=".15em" 
+  <text x="2" y="1" font-family="Helvetica" font-size=".15em" 
       fill="#FFF" font-weight="bold"> 
       E ai? Tudo bem?
 </text>
-  
   <text x="2" y="5" font-family="Helvetica" font-size=".15em" 
       fill="#FFF" font-weight="bold"> 
       Estudante de Desenvolvimento Web - Trybe
