@@ -207,11 +207,11 @@ g.typingUnderline rect {
 </text>
 
 <text x="2" y="1" font-family="Helvetica" font-size=".15em" 
-      fill="#260900" font-weight="bold"> 
+      fill="#FFFFFF" font-weight="bold"> 
       E aí! Tudo bom?
 </text>
  <text x="2" y="5" font-family="Helvetica" font-size=".15em" 
-      fill="#260900" font-weight="bold"> 
+      fill="#FFFFFF" font-weight="bold"> 
       Atualmente faço o curso de desenvolvimento Web - Trybe
 </text>
 
