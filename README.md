@@ -1,4 +1,4 @@
-<img src="images/header_pt.svg"></img>
+
 
 ![Snake animation](https://github.com/KesleyMuniz/kesleyMuniz/blob/output/github-contribution-grid-snake.svg)
 
