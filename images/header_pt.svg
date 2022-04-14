@@ -206,19 +206,19 @@ g.typingUnderline rect {
   </textPath>
 </text>
   
-  <text x="4" y="1" font-family="Helvetica" font-size=".15em" 
+  <text x="4" y="1" font-family="Helvetica" font-size=".12em" 
       fill="#FFF" font-weight="bold"> 
       🏡 Belo Horizonte - Brazil
 </text>
-  <text x="4" y="4" font-family="Helvetica" font-size=".15em" 
+  <text x="4" y="4" font-family="Helvetica" font-size=".12em" 
       fill="#FFF" font-weight="bold"> 
       💻 Estudante de Desenvolvimento Web - Trybe 
 </text>
-  <text x="4" y="8" font-family="Helvetica" font-size=".15em" 
+  <text x="4" y="8" font-family="Helvetica" font-size=".12em" 
       fill="#FFF" font-weight="bold"> 
       🏆 No tempo livre gosto de fazer desenhos, ver serie e vídeos.
 </text>
-  <text x="4" y="12" font-family="Helvetica" font-size=".15em" 
+  <text x="4" y="12" font-family="Helvetica" font-size=".12em" 
       fill="#FFF" font-weight="bold"> 
       🎵 Sou apaixonado por Rap e metáforas.
 </text>
