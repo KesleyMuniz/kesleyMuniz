@@ -199,7 +199,7 @@ g.typingUnderline rect {
            dur="5.8s" begin="0s" fill="freeze"/>
 </path>
 
-<text x="58" font-family="Helvetica" font-size=".12em" fill="white"
+<text x="47" font-family="Helvetica" font-size=".12em" fill="white"
      text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
       Desenvolvedor Front End Junior
