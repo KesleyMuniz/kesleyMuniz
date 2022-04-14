@@ -208,11 +208,19 @@ g.typingUnderline rect {
   
   <text x="2" y="1" font-family="Helvetica" font-size=".15em" 
       fill="#FFF" font-weight="bold"> 
-      E ai? Tudo bem?
+      ✌️ E ai? Tudo bem? 
 </text>
-  <text x="2" y="5" font-family="Helvetica" font-size=".15em" 
+  <text x="2" y="4" font-family="Helvetica" font-size=".15em" 
       fill="#FFF" font-weight="bold"> 
-      Estudante de Desenvolvimento Web - Trybe
+      💻 Estudante de Desenvolvimento Web - Trybe 
+</text>
+  <text x="2" y="8" font-family="Helvetica" font-size=".15em" 
+      fill="#FFF" font-weight="bold"> 
+      🏆 No tempo livre gosto de fazer desenhos, ver serie e vídeos.
+</text>
+  <text x="2" y="12" font-family="Helvetica" font-size=".15em" 
+      fill="#FFF" font-weight="bold"> 
+      🎵 Sou apaixonado por Rap e geralmente so escuto esse estilo.
 </text>
 
 <text x="17" y="12" font-family="Helvetica" font-size=".22em" 
